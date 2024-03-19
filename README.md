@@ -10,11 +10,11 @@ The challenges for automatic segmentation algorithm of the fetal head (FH) and p
 
 ### RTSeg-Net:
 
-![framework](imgs/RTSeg-Net.tif)
+![framework](imgs/RTSeg-Net.png)
 
 ## Performance Comparison
 
-<img src="imgs/performance.tif" title="preformance" style="zoom:8%;" align="left"/>
+<img src="imgs/performance.png" title="preformance" style="zoom:8%;" align="left"/>
 
 
 ## Environment
